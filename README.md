@@ -75,14 +75,14 @@
 <div align="center">
 <h2>💼 Experience</h2>
 
-<h3>Salesforce Developer Intern</h3>
+<h2>Salesforce Developer Intern</h2>
 <p><em>May - July 2025 | Salesforce-supported Virtual Internship Program (AICTE & SmartBridge)</em></p>
 <ul>
     <p>Developed CRM-based Order Management System using Salesforce (custom objects, flows, triggers, Batch Apex)</p>
     <p>Built Lightning Web Components (LWC) with data modeling, validation, and automation</p>
 </ul>
 <br><br>
-<h3>AI & Data Analytics Intern</h3>
+<h2>AI & Data Analytics Intern</h2>
 <p><em>Oct - Nov 2025 | Edunet Foundation (Skills4Future Program)</em></p>
 <ul>
     <p>Completed hands-on training in data preprocessing, visualization, and machine learning</p>
