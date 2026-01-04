@@ -109,7 +109,7 @@
 <p>
     <a href="https://bellamkonda-thishithasai.netlify.app/">🌐 Portfolio</a> | 
     <a href="https://github.com/Thishithasai406">💻 GitHub</a> | 
-    <a href="https://www.linkedin.com/in/thishithasai">💼 LinkedIn</a> | 
+    <a href="www.linkedin.com/in/bellamkonda-thishithasai-422876379">💼 LinkedIn</a> | 
     <a href="mailto:thishithasaib@gmail.com">📧 Email</a>
 </p>
 
