@@ -34,7 +34,7 @@
 <div align="center">
 
 <h2>🛠️ Skills & Tools</h2>
-
+<br>
 <h3>💻 Programming Languages</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,js,c,cpp,php" />
@@ -93,7 +93,7 @@
 </div>
 <div align="center">
 <h2>🏆 Certifications</h2>
-
+<br>
 <ul>
      <p>☁️ <strong>AWS Cloud Quest: Cloud Practitioner</strong> - December 2025</p>
     <p>🐍 <strong>Explore Machine Learning using Python</strong> - Infosys Springboard, August 2025</p>
