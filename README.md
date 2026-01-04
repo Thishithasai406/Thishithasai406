@@ -81,7 +81,7 @@
     <p>Developed CRM-based Order Management System using Salesforce (custom objects, flows, triggers, Batch Apex)</p>
     <p>Built Lightning Web Components (LWC) with data modeling, validation, and automation</p>
 </ul>
-
+<br><br>
 <h3>AI & Data Analytics Intern</h3>
 <p><em>Oct - Nov 2025 | Edunet Foundation (Skills4Future Program)</em></p>
 <ul>
