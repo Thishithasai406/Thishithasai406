@@ -82,11 +82,13 @@ I am a **B.Tech Computer Science Engineering (AIML)** student at **SRM Universit
 
 ## 💼 Experience
 
-### Salesforce Virtual Developer Intern &nbsp; ![Duration](https://img.shields.io/badge/May%20–%20July%202025-0077B5?style=flat-square)
+### Salesforce Virtual Developer Intern &nbsp; ![Duration](https://img.shields.io/badge/May%20–%20July%202025-0077B5?style=flat-square) [![Certificate](https://img.shields.io/badge/View%20Certificate-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://drive.google.com/file/d/12QAT6AVGrpHv3R0e7t7cgkwpNkxiNQit/view)
+
 **AICTE & SmartBridge Educational Services · Salesforce-supported Virtual Internship**
 
 - Developed a CRM-based **Order Management System** using Salesforce — custom objects, flows, triggers, Batch Apex
 - Built **Lightning Web Components (LWC)** with data modeling, validation, and automation to improve operational efficiency
+
 
 <br/>
 
