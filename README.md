@@ -102,7 +102,7 @@ Full-stack disaster response platform with real-time workflows, geospatial mappi
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=python&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat-square&logo=react&logoColor=white) ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-[![GitHub](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thishithasai406)
+[![GitHub](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thishithasai406/Disaster_Management_System)
 
 <br/>
 
@@ -112,7 +112,7 @@ Fully serverless event ingestion pipeline on AWS — React → API Gateway → L
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white) ![API Gateway](https://img.shields.io/badge/API%20Gateway-FF9900?style=flat-square&logo=amazonaws&logoColor=white) ![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white) ![Glue](https://img.shields.io/badge/Glue-FF9900?style=flat-square&logo=amazonaws&logoColor=white) ![Athena](https://img.shields.io/badge/Athena-FF9900?style=flat-square&logo=amazonaws&logoColor=white) ![SNS](https://img.shields.io/badge/SNS-FF9900?style=flat-square&logo=amazonaws&logoColor=white) ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=flat-square&logo=amazonaws&logoColor=white) ![IAM](https://img.shields.io/badge/IAM-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
-[![GitHub](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thishithasai406)
+[![GitHub](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thishithasai406/AWS-Data-Confluence)
 
 <br/>
 
@@ -122,7 +122,7 @@ CNN-based deep learning model recognizing 26 ASL alphabets in real-time with Med
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white) ![CVZone](https://img.shields.io/badge/CVZone-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![pyttsx3](https://img.shields.io/badge/pyttsx3-3776AB?style=flat-square&logo=python&logoColor=white) ![pyenchant](https://img.shields.io/badge/pyenchant-3776AB?style=flat-square&logo=python&logoColor=white)
 
-[![GitHub](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thishithasai406)
+[![GitHub](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thishithasai406/signSpeak)
 
 <br/>
 
@@ -134,9 +134,9 @@ CNN-based deep learning model recognizing 26 ASL alphabets in real-time with Med
 
 <div align="center">
 
-![AWS](https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+[![AWS](https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://drive.google.com/file/d/1E_kXMvSWxwPlBgC0eNPKwRgdRIoSxj-Z/view)
 &nbsp;&nbsp;
-![SAP](https://img.shields.io/badge/SAP%20Certified%20Generative%20AI%20Developer-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+[![SAP](https://img.shields.io/badge/SAP%20Certified%20Generative%20AI%20Developer-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)](https://drive.google.com/file/d/1AEOA6xFU0_Has59Pm_Ib28nW9gvBlrk5/view)
 
 <br/>
 
