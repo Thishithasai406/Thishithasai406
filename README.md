@@ -24,6 +24,7 @@ I am a **B.Tech Computer Science Engineering (AIML)** student at **SRM Universit
 - ☁️ **Cloud Enthusiast & AWS Certified Cloud Practitioner**, exploring cloud architecture, deployment, and Docker-based systems
 - 🤖 **AI/ML Developer** with interest in building intelligent AI-powered solutions
 - ☁️ **SAP Certified Developer** in Generative AI
+- ☕ **Oracle Certified Java SE 17 Developer**
 - 🚀 **Problem Solver** who enjoys designing and developing practical, real-world tech solutions
 - 🎓 **Continuous Learner** always exploring emerging technologies and improving technical depth
 
@@ -82,6 +83,15 @@ I am a **B.Tech Computer Science Engineering (AIML)** student at **SRM Universit
 
 ## 💼 Experience
 
+### Undergraduate Research Assistant &nbsp; ![Duration](https://img.shields.io/badge/March%202026%20–%20Present-0077B5?style=flat-square)
+
+**SRM University AP · Under Faculty Supervision**
+
+- Contributing to a research project on **automated pothole detection and road damage cost estimation**
+- Working on image data analysis, cost modelling, and structured reporting of findings to faculty supervisors
+
+<br/>
+
 ### Salesforce Virtual Developer Intern &nbsp; ![Duration](https://img.shields.io/badge/May%20–%20July%202025-0077B5?style=flat-square) [![Certificate](https://img.shields.io/badge/View%20Certificate-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://drive.google.com/file/d/12QAT6AVGrpHv3R0e7t7cgkwpNkxiNQit/view)
 
 **AICTE & SmartBridge Educational Services · Salesforce-supported Virtual Internship**
@@ -139,10 +149,14 @@ CNN-based deep learning model recognizing 26 ASL alphabets in real-time with Med
 [![AWS](https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://drive.google.com/file/d/1E_kXMvSWxwPlBgC0eNPKwRgdRIoSxj-Z/view)
 &nbsp;&nbsp;
 [![SAP](https://img.shields.io/badge/SAP%20Certified%20Generative%20AI%20Developer-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)](https://drive.google.com/file/d/1AEOA6xFU0_Has59Pm_Ib28nW9gvBlrk5/view)
+&nbsp;&nbsp;
+[![Oracle](https://img.shields.io/badge/Oracle%20Certified%20Java%20SE%2017%20Developer-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://drive.google.com/file/d/1Q46to2mUUQZctEXpGSwBA8UeXaYMdBxu/view)
 
 <br/>
 
 ![April 2026](https://img.shields.io/badge/April%202026-grey?style=flat-square)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![May 2026](https://img.shields.io/badge/May%202026-grey?style=flat-square)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![May 2026](https://img.shields.io/badge/May%202026-grey?style=flat-square)
 
