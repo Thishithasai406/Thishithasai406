@@ -8,6 +8,19 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Thishithasai406&color=00D9FF&style=for-the-badge)](https://github.com/Thishithasai406)
 
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thishithasai406)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=chrome&logoColor=white)](https://bellamkonda-thishithasai.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bellamkonda-thishithasai-422876379/)
+
+</div>
+
+
+<div align="center">
+
+
 </div>
 
 <br/>
@@ -182,32 +195,7 @@ CNN-based deep learning model recognizing 26 ASL alphabets in real-time with Med
 
 <br/>
 
-## 🏆 GitHub Trophies
 
-<div align="center" style="background-color:#0d1117; padding:20px; border-radius:10px;">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Thishithasai406&theme=darkhub&no-frame=true&column=3&margin-w=20&margin-h=20&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&titles=Commits,Repositories,Experience" width="700" />
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-## 🔗 Let's Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thishithasai406)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=chrome&logoColor=white)](https://bellamkonda-thishithasai.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bellamkonda-thishithasai-422876379/)
-
-</div>
-
-
-<div align="center">
 
 ## 💡 "Code is poetry written in logic"
 
