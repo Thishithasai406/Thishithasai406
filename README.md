@@ -49,45 +49,43 @@ I am a **B.Tech Computer Science Engineering (AIML)** student at **SRM Universit
 
 ## 🛠️ Tech Stack
 
-### **Languages**
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### **Frontend**
+### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### **Backend**
+### Backend
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
-### **Databases**
+### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### **Cloud & Tools**
+### Cloud & Tools
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### **Core Concepts**
+### Core Concepts
 ![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-00599C?style=for-the-badge)
-![Backend Dev](https://img.shields.io/badge/Backend%20Development-009688?style=for-the-badge)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge)
-![API Integration](https://img.shields.io/badge/API%20Integration-0077B5?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-6C3483?style=for-the-badge)
 ![System Design](https://img.shields.io/badge/System%20Design-6C3483?style=for-the-badge)
-
+![Computer Networks](https://img.shields.io/badge/Computer%20Networks-1572B6?style=for-the-badge)
+![Operating Systems](https://img.shields.io/badge/Operating%20Systems-2E86C1?style=for-the-badge)
+![SDLC](https://img.shields.io/badge/SDLC-009688?style=for-the-badge)
+![API Integration](https://img.shields.io/badge/API%20Integration-0077B5?style=for-the-badge)
+![Agile Development](https://img.shields.io/badge/Agile%20Development-2496ED?style=for-the-badge)
 <br/>
 
 ---
@@ -100,8 +98,9 @@ I am a **B.Tech Computer Science Engineering (AIML)** student at **SRM Universit
 
 **SRM University AP · Under Faculty Supervision**
 
-- Contributing to a research project on **automated pothole detection and road damage cost estimation**
-- Working on image data analysis, cost modelling, and structured reporting of findings to faculty supervisors
+- Conducting research on **secure iris biometric authentication and cancelable template protection for IoT edge devices**.
+- Working on deep learning-based biometric feature extraction, data analysis, and security-oriented representation techniques
+- Evaluating biometric recognition and template security through EER, FAR/FRR, ROC-AUC, entropy, revocability, unlinkability, key sensitivity, and security attack analysis
 
 <br/>
 
